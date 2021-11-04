@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-AAAAAAAAAAAAAAA
-=======
-BBBBBBBBBBBBBBBBBBBBBBBBBB
->>>>>>> a2
+abcd
